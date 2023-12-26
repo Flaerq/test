@@ -1,0 +1,6 @@
+commit 29ffc607c39145d7b48c3041a06b7a98d9055168
+Merge: e556012 18e6e33
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:38:08 2023 +0200
+
+    Merge branch 'issue2'
