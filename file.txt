@@ -1,11 +1,21 @@
+commit 5bac9b8048225e25b3ba90bc52d82ce66d9f21f1
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Thu Dec 28 19:07:07 2023 +0200
+
+    test
+
+commit 0c0c3370bc6ba84e95964260e45eb869abe81374
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:45:06 2023 +0200
+
+    test
+
 commit 29ffc607c39145d7b48c3041a06b7a98d9055168
 Merge: e556012 18e6e33
 Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
 Date:   Tue Dec 26 21:38:08 2023 +0200
 
     Merge branch 'issue2'
-<<<<<<< HEAD
-=======
 
 commit 18e6e338ee3582eaf61e0a855f815a3733c2b653
 Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
@@ -48,4 +58,3 @@ Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
 Date:   Tue Dec 26 20:09:28 2023 +0200
 
     first_logs
->>>>>>> test
