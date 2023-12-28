@@ -1,0 +1,66 @@
+commit 61eb443c04c3588a8833a1c677cb560fa68cd6ee
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Thu Dec 28 19:15:38 2023 +0200
+
+    issue_commit
+
+commit 5bac9b8048225e25b3ba90bc52d82ce66d9f21f1
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Thu Dec 28 19:07:07 2023 +0200
+
+    test
+
+commit 0c0c3370bc6ba84e95964260e45eb869abe81374
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:45:06 2023 +0200
+
+    test
+
+commit 29ffc607c39145d7b48c3041a06b7a98d9055168
+Merge: e556012 18e6e33
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:38:08 2023 +0200
+
+    Merge branch 'issue2'
+
+commit 18e6e338ee3582eaf61e0a855f815a3733c2b653
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:36:49 2023 +0200
+
+    test
+
+commit 1276280ac7c25bc10cd8ca6c11e659398225ead5
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:33:20 2023 +0200
+
+    test
+
+commit e556012180773f9cf8409f441e927e877190f41a
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:28:28 2023 +0200
+
+    test
+
+commit 96ffd6b7c80e7ae66f3acba975ce91ab0917f69e
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:27:40 2023 +0200
+
+    test
+
+commit cdee253b48147f36f844ac3eafa2e641cd8eafab
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 21:15:23 2023 +0200
+
+    test
+
+commit 2666bfd45465bea084c52c34667c9e72ec05476a
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 20:24:41 2023 +0200
+
+    next_version
+
+commit eca4b9e3741016901597d525b674a11c09b2b0b8
+Author: V.Vitaliy <vitaliyverzyn25@gmail.com>
+Date:   Tue Dec 26 20:09:28 2023 +0200
+
+    first_logs
